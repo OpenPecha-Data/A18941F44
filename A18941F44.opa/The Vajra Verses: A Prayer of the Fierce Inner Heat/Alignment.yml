@@ -1,0 +1,28 @@
+segment_sources:
+  PCCC471FD:
+    type: origin_type
+    relation: translation
+    language: en
+  P912FBA92:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  53f38a45fe4b4afab231e91a19641054:
+    PCCC471FD: c710a96088244397915467e0a02e6c10
+    P912FBA92: 4396c935ee87468da8e84e51c054ebf3
+  66e20d021030441c82ff45b2deb4f2f7:
+    PCCC471FD: 99cd77aa034e4c2b8b8ec6a029d743d8
+    P912FBA92: 4de7e159331c470abb127ba8f4cb848f
+  42e905b0c0ae4a059a6c41157ab50d29:
+    PCCC471FD: 915b37c302264846a78d85e9423c85d3
+    P912FBA92: 1a971c5e27c746e893c40f5212e20c91
+  11993f53df014f8f9e1fcfaeb58e7162:
+    PCCC471FD: 5f7c049ac24c4bb393583b490010f877
+    P912FBA92: 6678f203084a4a3f8c00b3b77945f3b2
+  24b780442db84309b3be1970e7522ce4:
+    PCCC471FD: b96470c471294bf2b21bfca5e736464e
+    P912FBA92: 078c3f69b41b49c79d0833ddad4c7408
+  ba2477eda0c94fc68c7264e98aa782cd:
+    PCCC471FD: 10fdafa6cf40457d8a78080edee3abdb
+    P912FBA92: 3056d5f4a88c4bd2ba03002ace771400
